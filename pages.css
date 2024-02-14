@@ -71,6 +71,39 @@ a{
     justify-content:center;
     align-items:center;
 }
+#textbox1{
+    display:flex;
+    font-size:30px;
+    color:white;
+    position:fixed;
+    top:0;
+    left:0;
+    bottom:0;
+    width:40%;
+    height:50%;
+    margin-top:15%;
+    margin-left:10%;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+
+}
+#pictureBox{
+    display:flex;
+    font-size:30px;
+    color:white;
+    position:fixed;
+    top:0;
+    left:0;
+    bottom:0;
+    width:40%;
+    height:50%;
+    margin-top:15%;
+    margin-left:50%;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
 w{
     font-size:50px;
 }
